@@ -109,4 +109,4 @@ result
  -32x^8+96x^7+8x^6-60x^5-108x^4+10x^3+105x^2-18
 ```
 solution of Math solver :
-![](/home/k/Desktop/aks/aks.png)
+![](aks.png)
